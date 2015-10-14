@@ -1,3 +1,10 @@
+C     This source is NOT written by me @V.Jindal
+C     Please contact following authors for comments
+
+C     @author Diethelm Wuertz
+C     @author Christophe Dutang
+C     @author Yohan Chalabi
+
 C     PART I:  HALTON SEQUENCE
 C     PART II: SOBOL SEQUENCE
 
